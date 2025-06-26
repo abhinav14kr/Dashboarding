@@ -1,12 +1,11 @@
 **                                             **Tableau & PowerBI Project Repository**
 **
 
-Welcome to my Tableau-BI-Repo! This repository houses a collection of Tableau projects showcasing my diverse range of work. Whether it's practicing with different datasets, exploring personal interests, completing case assignments, or experimenting with new ideas, you'll find it all here.
+This repo is a collection of my Tableau, Power BI projects where I’ve explored real-world datasets, and built dashboards just for the fun of it.
 
 
-
-1. NETFLIX DASHBOARD: 
-
+📺 Netflix Dashboard
+An interactive dashboard built to analyze Netflix’s content by type, genre, and release trends. A fun exploration of how streaming data can tell a story.
 
 ![Netflix Dashboard](https://github.com/abhinav14kr/Tableau-BI-Repo/assets/139970672/4e31127c-37ad-49dc-af2e-d29782fe52e6)
 
@@ -14,17 +13,11 @@ Welcome to my Tableau-BI-Repo! This repository houses a collection of Tableau pr
 
 
 
-
-
-
-
-2. COVID TRACKER: 
-
-The covid 19 global data for the year 2020 is an often used dataset for developing a Tableau Dashboard, yet I used it to as I learnt a lot through the process. The data is downloaded from https://data.world/ as a CSV file.
+🌍 COVID-19 Global Tracker
+Built using 2020 global COVID data from data.world. Though widely used, this dataset helped me sharpen core Tableau skills.
 
 Here's my blog post about it - https://abhinav14rd.wordpress.com/2023/10/31/my-first-tableau-dashboard/
 
-I will keep updating this dashboard as I learn more about Tableau and the features it offers.
 
 
 ![Dashboard 1](https://github.com/abhinav14kr/Tableau-BI-Repo/assets/139970672/aa826612-182e-4aab-a6f3-c9c19f4eb939)
@@ -33,21 +26,17 @@ I will keep updating this dashboard as I learn more about Tableau and the featur
 
 
 
+👩‍💻 Data Roles in Tech (Power BI)
+A Power BI dashboard analyzing job roles—Data Analyst, Data Engineer, Data Scientist - by country, salary, gender, and job satisfaction. Built using survey data.
 
-
-
-
-3. ANALYZIGN DATA ROLES WITH POWERBI: 
-
-The likesness of data analysts, data engineers, data scientists, etc when it comes to country, salary, gender, job satisfaction. 
 
 
  
 ![Screenshot 2024-01-23 151538](https://github.com/abhinav14kr/Projects_Tableau_PowerBI/assets/139970672/b55a65b6-9d01-4fda-9fae-3321c0d92ce1)
 
 
-4. ANALYZING ADIDAS SALES DATA IN THE UNITED STATES USING EXCEL PIVOT TABLES AND INTERACTIVE DASHBOARD: 
-
+👟 Adidas Sales (Excel + Pivot Tables)
+A clean, Excel-based dashboard to explore Adidas sales trends across the U.S. using pivot tables and slicers for interactivity.
 
 
 ![Excel_Dashboard](https://github.com/abhinav14kr/Projects_Tableau_PowerBI/assets/139970672/6bbc4841-dfc1-4942-95e1-7a653fadb789)
